@@ -11,4 +11,4 @@ The goal was to see if I could see I could find any insight, similarities, and d
 #### File Contents
 - `Scraping and Sentiment Analysis.ipynb` contains all loading and cleaning of movie scripts and sentiment analysis. 
 - `Topic Modeling and PCA.ipynb` contains topic modeling using TFIDF and NMF. Also contains PCA and visualization. 
-- `mcu_functions.py` contains functions used for scraping and data cleaning.`
+- `mcu_functions.py` contains functions used for scraping and data cleaning.
